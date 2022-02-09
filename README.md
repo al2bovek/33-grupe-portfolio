@@ -8,8 +8,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 
 
-Design: https://rstheme.com/products/html/braintech/index5.html
-
+Design: https://preview.colorlib.com/theme/personal/index.html
 ## Project features
 
 -   Github pages
