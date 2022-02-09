@@ -1,6 +1,6 @@
 
 
-# Braintech portfolio
+# Personal portfolio
 
 _33 group website project_
 
